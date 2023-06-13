@@ -1,4 +1,4 @@
-## SISTEM PEMILIHAN KAMAR PASIEN
+# SISTEM PEMILIHAN KAMAR PASIEN
 
 ## TENTANG PROJEK
 Projek ini memungkinkan user untuk memilih kapasitas ruang rawat inap dan user dapat memilih kamar yang diinginkan berdasarkan total atau jumlah ruang rawat inap yang di-inputkan.
