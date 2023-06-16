@@ -1,6 +1,6 @@
 # 🧑‍⚕️ Sistem Pemilihan Kamar Pasien
 
-### TENTANG PROJEK
+### 📌 TENTANG PROJEK
 Projek ini merupakan tugas besar mata kuliah Dasar Pemrograman (semester 1). Projek ini memungkinkan user untuk memilih kapasitas ruang rawat inap dan user dapat memilih kamar yang diinginkan berdasarkan total atau jumlah ruang rawat inap yang di-inputkan.
 
 ### 📲 FITUR LAYANAN
